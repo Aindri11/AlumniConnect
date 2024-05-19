@@ -1,37 +1,37 @@
-#Alumni Connect Website
+# Alumni Connect Website
 
-##Introduction
+## Introduction
 Welcome to the Alumni Connect Website, a comprehensive platform designed to foster connections and facilitate interactions among alumni. This README provides an overview of the website's features.
 
-##Features
+## Features
 
-###Home Page
+### Home Page
 -Overview of the website’s purpose and features.
 -Quick links to major sections (News, Events, Blog, Directory).
 -User-friendly navigation menu.
 
-###About
+### About
 -Information about the institution and the alumni network.
 -History and achievements.
 -Contact information.
 
-###Events
+### Events
 -Upcoming and past event listings.
 -Detailed event descriptions, dates, and locations.
 
-###Chat
+### Chat
 -Real-time messaging feature for alumni.
 
-###Blog
+### Blog
 -Platform for alumni to write and share articles.
 -Categories for different types of content (e.g., career advice, alumni stories).
 -Comment section for readers to engage.
 
-###Alumni Directory
+### Alumni Directory
 -Searchable database of alumni profiles.
 -Filters by domain.
 -Profile pages with contact information and professional details.
 
-###Login/Signup
+### Login/Signup
 -Secure sign-up process for new users.
 -Login functionality for returning users.
